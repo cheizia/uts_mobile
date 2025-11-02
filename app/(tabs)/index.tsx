@@ -26,7 +26,6 @@ export default function Index() {
         {/* Judul Utama */}
         <View style={styles.titleContainer}>
           <Text style={styles.title}>Selamat Datang</Text>
-          <Text style={styles.subtitle}>Ayo mulai perjalananmu bersama kami!</Text>
         </View>
 
         {/* Tombol Aksi */}
